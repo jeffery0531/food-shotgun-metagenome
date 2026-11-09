@@ -1,0 +1,4 @@
+# cache of database responses; scripts/build_catalog.py recreates it
+raw/
+__pycache__/
+.DS_Store
